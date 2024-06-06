@@ -1,9 +1,14 @@
 ## Hi there 👋
-
-<!--
+<!--Boas vindas ao meu perfil
+Meu nome é joabe silva 
+Estou estudando no Alura 
+Estou me desenvolvendo na linguagem javaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos edesenvolvimentos 
+Vce pode entrar em contato comigo pelo joaberocha353@gmail.com
 **Joabe942/joabe942** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+Here are some ideas to get you starte:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
